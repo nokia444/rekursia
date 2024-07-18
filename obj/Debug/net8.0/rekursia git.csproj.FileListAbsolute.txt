@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\rekursia git\bin\Debug\net8.0\rekursia git.exe
+C:\Users\admin\Desktop\rekursia git\bin\Debug\net8.0\rekursia git.deps.json
+C:\Users\admin\Desktop\rekursia git\bin\Debug\net8.0\rekursia git.runtimeconfig.json
+C:\Users\admin\Desktop\rekursia git\bin\Debug\net8.0\rekursia git.dll
+C:\Users\admin\Desktop\rekursia git\bin\Debug\net8.0\rekursia git.pdb
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\rekursia git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\rekursia git.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\rekursia git.AssemblyInfo.cs
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\rekursia git.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\rekursia git.dll
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\refint\rekursia git.dll
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\rekursia git.pdb
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\rekursia git.genruntimeconfig.cache
+C:\Users\admin\Desktop\rekursia git\obj\Debug\net8.0\ref\rekursia git.dll
